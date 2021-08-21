@@ -2,20 +2,32 @@ body {
     font-family: Helvetica;
 }
 
+h1 {
+    color: khaki;
+    text-align: center;
+    font-size: 100px;
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+}
+
 h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
 
-.brushes {
+.subheading {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+#brushes {
     background-color: mediumspringgreen;
 }
 
-.frames {
+#frames {
     background-color: lightcoral;
 }
 
-.paint {
+#paint {
     background-color: skyblue;
 }
